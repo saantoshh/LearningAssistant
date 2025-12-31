@@ -1,0 +1,12 @@
+
+Practice 3 DSA problems daily on LeetCode or HackerRank.
+Finish Python project — add user authentication feature.
+Review SQL joins (INNER, LEFT, RIGHT, FULL).
+Understand difference between GET and POST in HTTP methods.
+Work on portfolio website — add animation and contact form.
+Revise DBMS normalization (1NF, 2NF, 3NF).
+Learn basics of REST API and JSON structure.
+Debug Flask route for /flashcards before deployment.
+Read about OS scheduling algorithms for upcoming exam.
+hello
+hehelloworld

@@ -1,0 +1,90 @@
+{
+  "Monday": {
+    "06:30": "Wake up and morning routine",
+    "07:00": "Revise yesterday's class notes",
+    "08:00": "Breakfast",
+    "09:00": "College theory classes (Core subjects)",
+    "13:00": "Lunch break",
+    "14:00": "Data Structures & Algorithms practice (arrays, linked list)",
+    "16:00": "Short walk or break",
+    "17:00": "Web development practice (HTML/CSS/JS)",
+    "19:00": "Dinner and relax",
+    "20:00": "Quick revision of DSA concepts",
+    "22:30": "Sleep"
+  },
+  "Tuesday": {
+    "06:30": "Wake up and stretch",
+    "07:00": "Theory reading (DBMS / OS / CN)",
+    "08:00": "Breakfast",
+    "09:00": "Attend college classes",
+    "13:00": "Lunch break",
+    "14:00": "DSA practice (Stacks & Queues)",
+    "16:00": "Group study or short break",
+    "17:00": "Frontend development (React / Tailwind)",
+    "19:00": "Dinner",
+    "20:00": "Solve 2-3 coding problems on LeetCode",
+    "22:30": "Sleep"
+  },
+  "Wednesday": {
+    "06:30": "Wake up and prepare for day",
+    "07:00": "Revise OOP concepts in Java",
+    "08:00": "Breakfast",
+    "09:00": "College lectures and practicals",
+    "13:00": "Lunch break",
+    "14:00": "DSA practice (Recursion & Backtracking)",
+    "16:00": "Take a short walk",
+    "17:00": "Work on development project (Portfolio / App)",
+    "19:00": "Dinner and relax",
+    "20:00": "Debug project or revise theory topics",
+    "22:30": "Sleep"
+  },
+  "Thursday": {
+    "06:30": "Wake up and morning routine",
+    "07:00": "Study theory subjects (Computer Networks / OS)",
+    "08:00": "Breakfast",
+    "09:00": "College classes or lab sessions",
+    "13:00": "Lunch break",
+    "14:00": "DSA topic: Trees & Binary Search Trees",
+    "16:00": "Rest or short walk",
+    "17:00": "Backend development (Node.js / Flask)",
+    "19:00": "Dinner",
+    "20:00": "Revise DSA + read project documentation",
+    "22:30": "Sleep"
+  },
+  "Friday": {
+    "06:30": "Wake up and prepare",
+    "07:00": "Review weekly theory topics",
+    "08:00": "Breakfast",
+    "09:00": "College lectures & assignments",
+    "13:00": "Lunch break",
+    "14:00": "DSA mock test (Mixed topics)",
+    "16:00": "Short break",
+    "17:00": "Development project feature update",
+    "19:00": "Dinner",
+    "20:00": "Code cleanup & GitHub push",
+    "22:30": "Sleep"
+  },
+  "Saturday": {
+    "07:30": "Wake up and relax",
+    "08:00": "Breakfast",
+    "09:00": "Weekly DSA contest (LeetCode / Codeforces)",
+    "11:00": "Review contest mistakes",
+    "13:00": "Lunch",
+    "14:00": "Work on web or app development",
+    "17:00": "Outdoor activity or short break",
+    "19:00": "Dinner",
+    "20:00": "Watch coding tutorials or tech videos",
+    "22:30": "Sleep"
+  },
+  "Sunday": {
+    "08:00": "Wake up and relax",
+    "09:00": "Read tech blogs or explore new frameworks",
+    "11:00": "Revise full week’s DSA topics",
+    "13:00": "Lunch",
+    "15:00": "Work on personal project (Portfolio / AI project)",
+    "17:00": "Break or hobby time",
+    "19:00": "Plan upcoming week’s goals",
+    "21:00": "Prepare for Monday classes",
+    "22:30": "Sleep early"
+  }
+}

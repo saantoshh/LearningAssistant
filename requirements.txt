@@ -1,0 +1,6 @@
+flask
+flask-cors
+python-dotenv
+wikipedia
+google-generativeai
+openai

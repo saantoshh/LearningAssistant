@@ -1,0 +1,5 @@
+[
+  { "question": "What is polymorphism in OOP?", "answer": "Polymorphism allows objects to be treated as instances of their parent class." },
+  { "question": "Difference between GET and POST?", "answer": "GET requests data, POST sends data to server." },
+  { "question": "1NF in DBMS?", "answer": "1NF removes repeating groups; each column has atomic values." }
+]
